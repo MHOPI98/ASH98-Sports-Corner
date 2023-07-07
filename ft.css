@@ -1,0 +1,59 @@
+
+footer{
+   position: fixed;
+    
+    
+   
+}
+.main2{
+    display: flex;
+}
+.box p{
+    color: #fff;
+}
+.main2 .box{
+    flex-basis: 50%;
+    padding: 10px 20px;
+}
+.box h2{
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #fff;
+
+}
+.box .content{
+    margin: 20px 0 0 0;
+}
+.box .content .text{
+    color: #fff;
+}
+
+.box span{
+color: #fff;
+}
+
+.main2 .left .content .social{
+
+    margin: 20px 0 0 0;
+    color: #fff;
+    
+    
+}
+.main2.left .content .social a{
+
+    padding: 0 2px;
+    
+    
+}
+.main2 .left .content .social a span{
+
+    height: 40px;
+    width: 40px;
+    background: #fff;
+    line-height: 40px;
+    text-align: center;
+   font-size: 18px;
+   border-radius: 5px;
+   color: green;
+}
